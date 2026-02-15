@@ -1,4 +1,4 @@
-database_name = "paphos_#{LuckyEnv.environment}"
+database_name = "skintwin_#{LuckyEnv.environment}"
 
 AppDatabase.configure do |settings|
   if LuckyEnv.production?

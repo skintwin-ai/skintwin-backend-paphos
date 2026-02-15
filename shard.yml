@@ -1,4 +1,4 @@
-name: paphos
+name: skintwin
 version: 0.1.0
 
 authors:
@@ -6,10 +6,10 @@ authors:
 
 targets:
   app:
-    main: src/paphos.cr
+    main: src/skintwin.cr
 
 crystalline:
-  main: src/paphos.cr
+  main: src/skintwin.cr
 
 crystal: 1.7.2
 
