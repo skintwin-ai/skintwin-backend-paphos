@@ -1,4 +1,4 @@
-name: paphos CI
+name: skintwin CI
 
 on:
   push:

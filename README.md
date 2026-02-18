@@ -1,6 +1,6 @@
-# paphos-backend
+# skintwin-backend
 
-This is the core backend for the official Pygmalion service.
+This is the core backend for the official Skintwin service.
 
 Very early work-in-progress, not usable in any capacity.
 

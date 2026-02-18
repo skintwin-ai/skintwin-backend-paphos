@@ -1,7 +1,7 @@
 require "./server"
 
 Lucky::Session.configure do |settings|
-  settings.key = "_paphos_session"
+  settings.key = "_skintwin_session"
 end
 
 Lucky::CookieJar.configure do |settings|
